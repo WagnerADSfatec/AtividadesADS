@@ -1,0 +1,24 @@
+.logo{  
+   width: 50px;
+   border-radius: 50%;
+}
+.nav-link, .active{
+    color: white;
+}
+.header-cadastro{
+   background-image: url("https://picsum.photos/1200/300");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+min-height: 35vh;
+   
+}
+.header-cadastro div{
+ min-height: 35vh;
+ color: white;
+ display: flex;
+ align-items: center;
+ padding-left: 10%;
+ background: black;
+ background: linear-gradient(98deg, rgba(0,0,0,1) 27%, rgba(255,255,255,0.136871836)67%);
+}
